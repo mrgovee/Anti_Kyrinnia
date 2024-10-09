@@ -1,0 +1,57 @@
+h1{
+    font-size: 75px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+h3{
+    font-size:25px;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+table{
+    border: 5px transparent;
+    border-collapse: collapse;
+    font-size:20px;
+}
+
+tr{
+    border-top: 3px dashed;
+    border-bottom: 3px dashed;
+}
+
+td{
+    padding: 15px;
+}
+
+nav a{
+    background-color:red ;
+    color: black;
+    font-size: 30px;
+    border-radius: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+nav {
+    padding: 30px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+body{
+    font-family: sans-serif;
+}
+
